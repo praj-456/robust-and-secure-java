@@ -1,0 +1,26 @@
+Strong Typing: Java is a strongly typed language, which means that it enforces strict type-checking during compilation. 
+This helps catch errors at compile-time rather than at runtime, reducing the likelihood of unexpected behaviors and vulnerabilities.
+
+Memory Management: Java has an automatic memory management system through garbage collection. 
+This feature relieves developers from manually managing memory allocation and deallocation, reducing the risk of memory leaks and buffer overflows.
+
+Exception Handling: Java has built-in exception handling mechanisms that allow developers to handle runtime errors gracefully.
+By catching and handling exceptions, Java programs can continue executing without crashing, enhancing overall robustness.
+
+Security Manager: Java provides a built-in security manager that allows developers to define and enforce security policies for Java applications. 
+It provides fine-grained control over the operations that a program can perform, such as accessing the file system or network resources. This helps prevent unauthorized actions and protects against malicious code.
+
+Bytecode Verification: Java uses bytecode as an intermediate representation of the code, which is executed by the Java Virtual Machine (JVM).
+Before execution, the bytecode goes through a verification process, ensuring that it adheres to certain safety constraints. This verification helps prevent malicious code from exploiting vulnerabilities and compromising the system.
+
+Sandbox Environment: Java applets and applications can run within a sandboxed environment, which restricts their access to system resources. 
+This sandboxing feature provides an additional layer of security by preventing untrusted code from performing harmful actions.
+
+Robust Standard Library: Java has a comprehensive standard library that provides a wide range of APIs for common programming tasks. 
+The standard library undergoes rigorous testing and is continuously improved, making it reliable and less prone to errors.
+
+Platform Independence: Java programs are compiled into platform-independent bytecode, which can be executed on any system that has a compatible JVM. 
+This portability helps ensure consistent behavior and reduces the risk of platform-specific vulnerabilities.
+
+Regular Updates and Security Patches: The Java platform is actively maintained by Oracle, and security updates and patches are regularly released to address any identified vulnerabilities. 
+This commitment to security helps keep Java applications robust and secure.
